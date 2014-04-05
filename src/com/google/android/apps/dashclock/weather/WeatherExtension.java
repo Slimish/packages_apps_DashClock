@@ -96,7 +96,7 @@ public class WeatherExtension extends DashClockExtension {
 
     private static final Criteria sLocationCriteria;
 
-    private static String sWeatherUnits = "f";
+    private static String sWeatherUnits = "c";
     private static Intent sWeatherIntent;
 
     private boolean mOneTimeLocationListenerActive = false;

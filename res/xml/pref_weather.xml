@@ -22,7 +22,7 @@
         android:entryValues="@array/pref_weather_units_values"
         android:entries="@array/pref_weather_units_display_names"
         android:title="@string/pref_weather_units_title"
-        android:defaultValue="f"
+        android:defaultValue="c"
         android:negativeButtonText="@null"
         android:positiveButtonText="@null" />
 
